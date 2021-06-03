@@ -2,7 +2,7 @@
 
 `Nature Invaders` is a shoot 'em video game developed in C, for Linux and inspired by `Space Invaders`. The purpose of this project is to code with the programming language C. The basis of the program come from the great SDL2 tutorial web site, [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/).
 
-## Game's pitch
+## About the game
 
 When the rainforest is attacked by modern civilisation, it's up to you as a virus to defend it and protect the nature on so save the humanity from itself.
 
